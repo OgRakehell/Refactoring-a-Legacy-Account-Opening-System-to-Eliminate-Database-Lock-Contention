@@ -1,0 +1,2 @@
+# Refactoring-a-Legacy-Account-Opening-System-to-Eliminate-Database-Lock-Contention
+The organization operates a core account opening application used by Relationship Managers (RMs) to onboard customers. Over the years, the system became increasingly unstable under load, frequently failing during concurrent account opening attempts. This issue had operational, reputational, and productivity impacts across the business.
